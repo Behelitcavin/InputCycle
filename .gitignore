@@ -1,0 +1,9 @@
+*.log
+*.lnk
+settings.txt
+config.json
+.env
+.env.*
+Thumbs.db
+Desktop.ini
+.DS_Store
